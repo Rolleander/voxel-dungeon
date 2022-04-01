@@ -1,5 +1,5 @@
 # Voxel Dungeon
 
-![Screenshot](docs/screnshot.JPG)
+![Screenshot](docs/screenshot.JPG)
 
 ..still in development..
