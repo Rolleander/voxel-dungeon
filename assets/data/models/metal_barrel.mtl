@@ -1,0 +1,14 @@
+# 
+# 
+newmtl metal_barrel
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.012941 0.012941 0.012941
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\metal_barrel_diff.jpg
+map_Bump Texture\\metal_barrel_bump.jpg
+
+
